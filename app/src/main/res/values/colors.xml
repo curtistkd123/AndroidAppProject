@@ -4,4 +4,10 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorOutput">#465181</color>
+    <color name="colorStroke">#695f44</color>
+    <color name="colorGold">#e3ad19</color>
+    <color name="whiteMiddle">#ffffff</color>
+    <color name="greenTea">#e4f0e1</color>
+    <color name="everGreen">#477a3c</color>
+    <color name="mossGreen">#105401</color>
 </resources>
